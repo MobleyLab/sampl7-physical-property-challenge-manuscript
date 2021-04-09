@@ -1,0 +1,23 @@
+SAMPL7 Molecule ID,Compound Class,Isomeric SMILES
+SM25,acylsulfonamide,O=C(NS(C1=CC=CC=C1)(=O)=O)CCC2=CC=CC=C2
+SM26,acylsulfonamide,O=S(CCC1=CC=CC=C1)(NC(C)=O)=O
+SM27,oxetane,O=S(CCC1=CC=CC=C1)(NC2(C)COC2)=O
+SM28,"thietane-1,1-dioxide",O=S(CC1(NC(C)=O)CCC2=CC=CC=C2)(C1)=O
+SM29,oxetane,CS(NC1(COC1)CCC2=CC=CC=C2)(=O)=O
+SM30,oxetane,O=S(NC1(COC1)CCC2=CC=CC=C2)(C3=CC=CC=C3)=O
+SM31,oxetane,O=S(NC1(COC1)CCC2=CC=CC=C2)(N(C)C)=O
+SM32,thietane,CS(NC1(CSC1)CCC2=CC=CC=C2)(=O)=O
+SM33,thietane,O=S(NC1(CSC1)CCC2=CC=CC=C2)(C3=CC=CC=C3)=O
+SM34,thietane,O=S(NC1(CSC1)CCC2=CC=CC=C2)(N(C)C)=O
+SM35,thietane-1-oxide,CS(N[C@@]1(C[S+]([O-])C1)CCC2=CC=CC=C2)(=O)=O
+SM36,thietane-1-oxide,O=S(N[C@@]1(C[S+]([O-])C1)CCC2=CC=CC=C2)(C3=CC=CC=C3)=O
+SM37,thietane-1-oxide,O=S(N[C@@]1(C[S+]([O-])C1)CCC2=CC=CC=C2)(N(C)C)=O
+SM38,"thietane-1,1-dioxide",CS(NC1(CS(C1)(=O)=O)CCC2=CC=CC=C2)(=O)=O
+SM39,"thietane-1,1-dioxide",O=S(NC1(CS(C1)(=O)=O)CCC2=CC=CC=C2)(C3=CC=CC=C3)=O
+SM40,"thietane-1,1-dioxide",O=S(NC1(CS(C1)(=O)=O)CCC2=CC=CC=C2)(N(C)C)=O
+SM41,isoxazole,O=S(NC1=NOC(C2=CC=CC=C2)=C1)(C)=O
+SM42,isoxazole,O=S(NC1=NOC(C2=CC=CC=C2)=C1)(C3=CC=CC=C3)=O
+SM43,isoxazole,O=S(NC1=NOC(C2=CC=CC=C2)=C1)(N(C)C)=O
+SM44,"1,2,3-triazole",O=S(NC(N=N1)=CN1C2=CC=CC=C2)(C)=O
+SM45,"1,2,3-triazole",O=S(NC(N=N1)=CN1C2=CC=CC=C2)(C3=CC=CC=C3)=O
+SM46,"1,2,3-triazole",O=S(NC(N=N1)=CN1C2=CC=CC=C2)(N(C)C)=O
