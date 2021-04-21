@@ -27,7 +27,6 @@ LateX tables were generated using https://www.tablesgenerator.com/ and saved as 
   - `different-logD-combo-accuracy.pdf` - This plot is similar to `accuracy_statistics_logD/`], except it includes some additional pKa and logP combinations (for logD estimation). Shown is the RMSE in calculated logD values, with error bars denoting 95% confidence intervals. Figure is in `.PDF` file format.
 
 - [`SI/`](SI/) - Contains figures and tables in the paper SI.
-  - `molecule_microstates_PNGs/` -
   - `correlation_statistics_logP/` - Overall correlation assessment for all methods participating in the SAMPL7 logP. Pearson’s R^2 and Kendall’s Rank Correlation Coefficient Tau are shown, with error bars denoting 95% confidence intervals. Figure is in `.PDF` and `.SVG` file format.
   - `compound-classes-and-2d-structures/` - Compound classes and structures of the molecules in the SAMPL7 physical property challenge. Figure is in `.PDF` and `.SVG` file format.
   - `chemical_property_distribution/` - Distribution of molecular properties of the 22 compounds from the SAMPL7 physical property blind challenge. (A) show a histogram of experimental logP values. The ticks along the x-axis indicate the individual values. (B) shows a histogram of experimental pKa values. (C) shows a histogram of experimental logD values. (D) shows a histogram of molecular weights calculated for the compounds in the SAMPL7 dataset. (E) shows a histogram of the number of rotatable bonds in each molecule. Figure is in `.PDF` and `.SVG` file format.
