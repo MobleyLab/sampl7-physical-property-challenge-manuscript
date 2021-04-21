@@ -2,7 +2,7 @@
 
 Provided are figures, tables, and supplementary documents for the "Evaluation of logP, pKa, and logD predictions from the SAMPL7 blind challenge" paper.
 
-Files in `.SVG` format are compatible with [`Inskape`](https://inkscape.org/) compatible, an open source vector graphics editor.
+Files in `.SVG` format are compatible with [`Inskape`](https://inkscape.org/), an open source vector graphics editor.
 LateX tables were generated using https://www.tablesgenerator.com/ and saved as in `.TGN` file format for any future editing. Tables can be viewed by loading the `.TGN` files back using the "Load table" option from the menu on the website.
 
 ## What's Here
